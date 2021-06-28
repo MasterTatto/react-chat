@@ -1,4 +1,4 @@
-import { Component } from 'react';
+
 import Chat from './components/Chat';
 import Login from './components/Login';
 import { CHAT_ROUTE, LOGIN_ROUTE } from './utils/consts';
